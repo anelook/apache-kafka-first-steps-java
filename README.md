@@ -13,7 +13,7 @@ Producer with multiple messages with key : `gradle runProducerMultipleMessagesWi
 
 Producer with one message : `gradle runProducerOneMessage`
 
-Consumer : `gradle run runConsumer`
+Consumer : `gradle runConsumer`
 
 
 
